@@ -1,7 +1,7 @@
 # School District Analysis
-Python 3.7 project to prepare school district's standardized test math and reading scores for analysis, reporting, and presentation to showcase trends in school performance that will assist the school board and superintendent in making decisions on school budgets and priorities.
+Python 3.7 project of preparing school district's standardized test math and reading scores for analysis, reporting, and presentation to showcase trends in school performance that will assist the school board and superintendent in making decisions on school budgets and priorities.
 
-This project uses Jupyter Notebook and the Pandas library to read raw data from CSV files, inspect and clean data, merge datasets, perform mathematical calculations, and visualize the data with charts and graphs.
+This project uses the Pandas library to read raw data from CSV files, inspect and clean data, merge datasets, perform mathematical calculations, and visualize the data with charts and graphs.
 
 ## School District Summary
 The school district summary is a high-level snapshot of the district's key metrics:
@@ -29,7 +29,7 @@ per_school_summary_df with:
   -  Overall passing percentage for each school in the "% Overall Passing" column
 
 ## School Spending Per Student
-To help the school board make decisions about the budget for the upcoming school year, school spending per student report was added to explore how school spending per student affects the school's average scores and passing percentages.    
+To help the school board make decisions about the budget for the upcoming school year, a school spending per student report was added to explore how school spending per student affects the school's average scores and passing percentages.    
 
 ![Per School Capita](Resources/per_school_capita.png)
 
@@ -45,4 +45,5 @@ Tables presenting each of the following metrics:
   -  School performance based on the school size 
   -  School performance based on the type of school
 
-[Back To The Top](#School District Analysis)
+[Back To The Top](#school-district-analysis)
+
